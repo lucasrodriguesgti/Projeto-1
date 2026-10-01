@@ -1,4 +1,4 @@
-# Ciclo de Vida de um Projeto no GitHub
+# Documentando o Fluxo de Versionamento
 
 ## Introdução
 
